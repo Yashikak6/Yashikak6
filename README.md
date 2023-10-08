@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashikak6
 - 👀 I’m interested in Coding and Creating Better Projects
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning to become Full Stack Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 yashika911202@gmail.com
 
